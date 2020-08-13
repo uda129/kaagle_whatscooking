@@ -3,5 +3,5 @@
 Word2vec technique + DNN
 
 
-Ingredients -> word
-Ingredients in Cuisine -> sentences
+- Ingredients -> word
+- Ingredients in Cuisine -> sentences
